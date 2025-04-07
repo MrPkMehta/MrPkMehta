@@ -58,6 +58,7 @@
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://github.com/MrPkMehta/MrPkMehta/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MrPkMehta/MrPkMehta/main/assets/github-contribution-grid-snake.svg" />
 </p>
+
 
