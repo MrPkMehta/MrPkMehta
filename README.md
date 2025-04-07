@@ -8,10 +8,17 @@
 
 ---
 
+<!-- Social Icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Priyamanshu%20Kumar-blue?style=flat-square&logo=linkedin" />
-  <img src="https://img.shields.io/badge/GitHub-MrPkMehta-181717?style=flat-square&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=MrPkMehta&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/priyamanshukumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:priyamanshu143@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pk_mehta._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -51,20 +58,4 @@
 
 <p align="center">
   <img src="https://github.com/MrPkMehta/MrPkMehta/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyamanshukumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MrPkMehta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
