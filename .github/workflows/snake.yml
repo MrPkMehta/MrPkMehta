@@ -8,23 +8,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate the snake SVG
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate the Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MrPkMehta
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Upload snake SVG to repository
+      - name: Commit and Push the Snake SVG
         run: |
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
-
-      - name: Push to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: output
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/
+          git add assets/github-contribution-grid-snake.svg
+          git commit -m "Add snake contribution SVG"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
