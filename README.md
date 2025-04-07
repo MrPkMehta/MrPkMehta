@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋, I'm Priyamanshu Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Passionate+Developer;CSE+Student;Tech+Lover+%F0%9F%A7%AC;Always+Learning+Something+New+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Passionate+Developer;CSE+Student;Tech+Lover+%F0%9F%A7%AC;Always+Learning+Something+New+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
