@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrPkMehta&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPkMehta&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPkMehta&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
@@ -61,3 +61,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrPkMehta/MrPkMehta/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrPkMehta/MrPkMehta/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Force GitHub to refresh the cache -->
