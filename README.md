@@ -25,11 +25,11 @@
 
 ## 🧑‍💻 About Me:
 
-- 🎓 CSE Engineering Student (3rd Year)
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning MERN Stack and exploring AI/ML
-- 👨‍💻 Participating in Hackathons & Open Source
-- 💬 Ask me about C++, Java, MongoDB, React, Node
+- 🎓 CSE Engineering Student (3rd Year)  
+- 💻 Passionate about Full Stack Web Development  
+- 🌱 Currently learning MERN Stack and exploring AI/ML  
+- 👨‍💻 Participating in Hackathons & Open Source  
+- 💬 Ask me about C++, Java, MongoDB, React, Node  
 
 ---
 
@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrPkMehta&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=MrPkMehta&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPkMehta&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
@@ -55,7 +55,6 @@
 ---
 
 ## 🐍 Snake Eating My Contribution
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrPkMehta/MrPkMehta/output/github-contribution-grid-snake-dark.svg">
