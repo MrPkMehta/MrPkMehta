@@ -50,9 +50,9 @@
 </p>
 
 <!-- Row 2: Activity Graph with fixed height + border radius -->
-<p align="center" style="width:98%; height:200px; overflow:hidden; border-radius:15px; margin:auto;">
+<p align="center" style="width:98%; height:200px; border-radius:15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPkMehta&theme=tokyo-night"
-       style="width:98%; height:80%; object-fit:cover; border-radius:15px;" />
+       style="width:98%; height:80%; border-radius:20px;" />
 </p>
 
 ---
