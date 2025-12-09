@@ -44,12 +44,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ruddy.vercel.app/api?username=MrPkMehta&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://stats.dooboo.io/api/github-stats?login=MrPkMehta&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MrPkMehta&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ruddy.vercel.app/api/top-langs/?username=MrPkMehta&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://stats.dooboo.io/api/top-langs?login=MrPkMehta&theme=tokyonight" width="50%" />
 </p>
 
 ---
