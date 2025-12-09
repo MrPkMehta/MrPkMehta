@@ -50,21 +50,13 @@
 </p>
 
 <!-- Row 2: Top Languages + Activity Graph -->
-<!-- Row 2 (Perfectly aligned like Row 1) -->
+<!-- Row 2 -->
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight"
+       width="48%" />
 
-  <!-- Card 3: Top Languages -->
-  <div style="display:inline-block; width:48%; height:250px; overflow:hidden; margin:5px; border-radius:10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight"
-         style="width:100%; height:100%; object-fit:cover;" />
-  </div>
-
-  <!-- Card 4: Activity Graph -->
-  <div style="display:inline-block; width:48%; height:250px; overflow:hidden; margin:5px; border-radius:10px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPkMehta&theme=tokyo-night"
-         style="width:100%; height:100%; object-fit:cover;" />
-  </div>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPkMehta&theme=tokyo-night"
+       width="48%" />
 </p>
 
 ---
