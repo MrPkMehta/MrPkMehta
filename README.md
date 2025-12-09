@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight" width="30%" />
 </p>
 
 ---
