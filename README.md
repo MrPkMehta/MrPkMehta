@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/top-langs?login=MrPkMehta&theme=tokyonight" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight" width="48%" />
 </p>
 
 ---
