@@ -50,9 +50,8 @@
 </p>
 
 <!-- Row 2: Top Languages + Activity Graph -->
-<!-- Row 2 -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight"
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPkMehta&theme=tokyonight"
        width="48%" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPkMehta&theme=tokyo-night"
