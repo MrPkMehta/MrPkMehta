@@ -50,16 +50,17 @@
 </p>
 
 <!-- Row 2: Top Languages + Activity Graph -->
+<!-- Row 2 (Perfectly aligned like Row 1) -->
 <p align="center">
 
   <!-- Card 3: Top Languages -->
-  <div style="display:inline-block; width:48%; height:280px; overflow:hidden; border-radius:12px; margin:5px;">
+  <div style="display:inline-block; width:48%; height:250px; overflow:hidden; margin:5px; border-radius:10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight"
          style="width:100%; height:100%; object-fit:cover;" />
   </div>
 
   <!-- Card 4: Activity Graph -->
-  <div style="display:inline-block; width:48%; height:280px; overflow:hidden; border-radius:12px; margin:5px;">
+  <div style="display:inline-block; width:48%; height:250px; overflow:hidden; margin:5px; border-radius:10px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPkMehta&theme=tokyo-night"
          style="width:100%; height:100%; object-fit:cover;" />
   </div>
