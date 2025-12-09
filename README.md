@@ -49,11 +49,11 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MrPkMehta&theme=tokyonight" width="48%" />
 </p>
 
-<!-- Row 2: Top Languages + Activity Graph -->
-<p align="center">
+<!-- Row 2: Activity Graph with fixed height + border radius -->
+<div align="center" style="width:98%; height:250px; overflow:hidden; border-radius:15px; margin:auto;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPkMehta&theme=tokyo-night"
-       width="100%" />
-</p>
+       style="width:100%; height:100%; object-fit:cover; border-radius:15px;" />
+</div>
 
 ---
 
