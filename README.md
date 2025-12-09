@@ -43,13 +43,16 @@
 
 ## 📊 GitHub Stats
 
+<!-- Row 1: Stats + Streak -->
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=MrPkMehta&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MrPkMehta&theme=tokyonight" width="48%" />
 </p>
 
+<!-- Row 2: Top Languages + Activity Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPkMehta&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPkMehta&theme=tokyo-night" width="48%" />
 </p>
 
 ---
