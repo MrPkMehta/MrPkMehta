@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me:
 
-- 🎓 CSE Engineering Student (3rd Year)  
+- 🎓 CSE Engineering Student (4th Year)  
 - 💻 Passionate about Full Stack Web Development  
 - 🌱 Currently learning MERN Stack and exploring AI/ML  
 - 👨‍💻 Participating in Hackathons & Open Source  
