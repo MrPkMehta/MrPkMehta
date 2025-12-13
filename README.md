@@ -27,7 +27,7 @@
 
 - 🎓 CSE Engineering Student (4th Year)  
 - 💻 Passionate about Full Stack Web Development  
-- 🌱 Currently learning MERN Stack and exploring AI/ML  
+- 🌱 Currently learning Data Structure and Algorithm 
 - 👨‍💻 Participating in Hackathons & Open Source  
 - 💬 Ask me about C++, Java, MongoDB, React, Node  
 
