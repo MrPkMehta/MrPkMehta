@@ -29,7 +29,7 @@
 - 💻 Passionate about Full Stack Web Development  
 - 🌱 Currently learning Data Structure and Algorithm 
 - 👨‍💻 Participating in Hackathons & Open Source  
-- 💬 Ask me about C++, Java Script, Sql, React, Node Js
+- 💬 Ask me about C, C++, Java Script, Sql, React, Node Js
 
 ---
 
